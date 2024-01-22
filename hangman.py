@@ -395,7 +395,7 @@ if startOrNot == "y" or "yes":
 | $$  | $$| $$  | $$| $$ \  $$|  $$$$$$/| $$ \/  | $$| $$  | $$| $$ \  $$
 |__/  |__/|__/  |__/|__/  \__/ \______/ |__/     |__/|__/  |__/|__/  \__/
                                                                          
-created by Young Chen
+created by webadderall
           """)
     
     loading_wait = round(random.uniform(1, 5), 2)
