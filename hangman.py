@@ -395,7 +395,7 @@ if startOrNot == "y" or "yes":
 | $$  | $$| $$  | $$| $$ \  $$|  $$$$$$/| $$ \/  | $$| $$  | $$| $$ \  $$
 |__/  |__/|__/  |__/|__/  \__/ \______/ |__/     |__/|__/  |__/|__/  \__/
                                                                          
-created by webadderall
+created by webadderall on github
           """)
     
     loading_wait = round(random.uniform(1, 5), 2)
@@ -445,6 +445,3 @@ created by webadderall
             if losses == 9:
                 print("You lost!")
                 breakpoint()
-        
-      
-
